@@ -31,6 +31,7 @@ supervisor, event-sourced state, Flask dashboard, CI/CD. *(Sanitized public vers
 ### 📌 Selected repos
 | Project | What it is |
 |---|---|
+| **[rag-agent-starter](https://github.com/maheshmasanam123/rag-agent-starter)** | 🤖 A readable RAG + tool-using ReAct agent — ingest → embed → retrieve → grounded answer. Runs locally with Ollama. |
 | **[emotion-detection-django](https://github.com/maheshmasanam123/emotion-detection-django)** | Computer-vision mood detection (DeepFace) driving a dynamic playlist |
 | **[sap-to-lakehouse-medallion-demo](https://github.com/maheshmasanam123/sap-to-lakehouse-medallion-demo)** | SAP → Azure Lakehouse → Snowflake medallion pipeline, one-command local run |
 | **[realtime-inventory-kafka-delta](https://github.com/maheshmasanam123/realtime-inventory-kafka-delta)** | Kafka → Spark Structured Streaming → Delta upserts → live dashboard |
